@@ -1,9 +1,9 @@
 {
 	"hero": {
-		"title": "Supercharged web development!",
-		"subtitle": "Unleashing the Power of the Web: Combines Astro, Tailwind CSS and Alpine.js to Streamline Your Web Development Process.",
+		"title": "Cyberlog.io",
+		"subtitle": "",
 		"globe_title": "Craft Stunning, High-Performance Websites with Ease and Speed",
-		"main_button_text": "Download on github",
+		"main_button_text": "Try Demo",
 		"secondary_button_text": "Go to animated version"
 	},
 	"hero_animated": {
